@@ -1,0 +1,3 @@
+C:/Users/ExtremeTech/Documents/C projects/CallApi/CMakeFiles/callApi.dir
+C:/Users/ExtremeTech/Documents/C projects/CallApi/CMakeFiles/ALL_BUILD.dir
+C:/Users/ExtremeTech/Documents/C projects/CallApi/CMakeFiles/ZERO_CHECK.dir
